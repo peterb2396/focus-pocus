@@ -390,7 +390,7 @@ const renderListView = () => {
       
       padding: '2rem 1rem',
       height: '100%',
-      width: '50%',
+      width: '80%',
       display: 'flex',
       flexDirection: 'column'
     }}>
